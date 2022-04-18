@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Wedding Photography",
+        "price": "300",
+        "description": "I believe in capturing real moments so much that I founded This is Reportage and This is Reportage: Family – worldwide communities of photographers who celebrate documentary wedding photography and documentary family photography respectively.",
+        "img": "https://images.unsplash.com/photo-1608048944439-505d956e1429?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Product Photography",
+        "price": "100",
+        "description": "There are so many benefits of product photography: They provide your customers with a clear image of what they will expect to receive. A high-quality image implies that your product is high quality; it creates a good first impression of your brand.",
+        "img": "https://images.unsplash.com/photo-1636743790301-daf4fc1ce968?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Cinematography",
+        "price": "150",
+        "description": "cinematography, the art and technology of motion-picture photography. It involves such techniques as the general composition of a scene; the lighting of the set or location; the choice of cameras, lenses, filters, and film stock;",
+        "img": "https://images.unsplash.com/photo-1611540881474-bf7c8731bfd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+   
+]
